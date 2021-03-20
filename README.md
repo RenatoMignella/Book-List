@@ -1,4 +1,4 @@
-A Simple booklist with  HTML JS and Skeleton 
+A Simple Booklist with HTML JS and Skeleton 
 https://renatomignella.github.io/Book-List/
 
 
